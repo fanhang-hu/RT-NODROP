@@ -1,0 +1,14 @@
+# Local planning and presentation documents; keep these files on the workstation,
+# but do not include them in the public code repository.
+Plan document.md
+Plan document.pdf
+User Manual.md
+User Manual.pdf
+entire environment.pdf
+entire environment.pptx
+
+# Generated and platform-specific files.
+.DS_Store
+__pycache__/
+*.py[cod]
+output/
